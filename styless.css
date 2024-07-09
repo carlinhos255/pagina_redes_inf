@@ -27,7 +27,7 @@ body {
 
 .portada{
     width: 25vw;
-    aspect-ratio: 1/1;
+    height: 25vw;
     background-color: #737373;
     border-radius: 10px;
     margin: auto;
@@ -35,8 +35,8 @@ body {
 }
 
 .portada img{
-    width: 24vw;
-    margin: 0.5vw;
+    width: 24.4vw;
+    margin: 0.3vw;
     border-radius: 10px
 }
 

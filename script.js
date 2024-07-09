@@ -1,7 +1,7 @@
 var albumes = [
     {
-      "artista": "The Beatles",
-      "nombre": "Let It Be",
+      "artista": "jhon coltrane",
+      "nombre": "",
       "portada": "https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1",
       "genero": "Pop-Rock"
     },
