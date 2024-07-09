@@ -2,8 +2,57 @@
 
 body {
     font-family: "League Spartan";
+    background-color: #2E2E2E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
-.tituloAlmbum {
-    
+.contenedor {
+    width: 25%;
+    text-align: center;
+}
+
+.titulo{
+    background-color: white;
+    padding: 1rem;
+    width: 100%;
+    border-radius: 50px;
+    font-weight: bolder;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.portada{
+    width: 100%;
+    aspect-ratio: 1/1;
+    background-color: #737373;
+    border-radius: 10px;
+    margin: auto;
+    margin-bottom: 2rem;
+}
+
+.botones{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
+.random{
+    background-color: #067612;
+    border:3px solid #00B213;
+    color: white;
+    padding: 1rem;
+    border-radius: 16px;
+    font-weight: bolder;
+} 
+
+select{
+    background-color: white;
+    color: black;
+    padding: 1rem;
+    border-radius: 16px;
+    font-weight: bolder;
 }
