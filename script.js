@@ -219,7 +219,7 @@ var albumes = [
         "artista": "Pink Floyd",
         "nombre": "The Dark Side of the Moon",
         "portada": "https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe",
-        "genero": "Rock"
+        "genero": "Rock Progresivo"
       },
       {
         "artista": "Led Zeppelin",
@@ -793,10 +793,33 @@ var albumes = [
       },
 
       {
-        "artista": "",
-        "nombre": "",
-        "portada": "",
-        "genero": ""
+        "artista": "King Crimson",
+        "nombre": "In the Court of the Crimson King",
+        "portada": "https://i.scdn.co/image/ab67616d0000b273e58173423c35cedd3dd02739",
+        "genero": "Rock Progresivo"
+      },{
+        "artista": "Pink Floyd",
+        "nombre": "Wish You Were Here",
+        "portada": "https://i.scdn.co/image/ab67616d0000b2731a84d71391df7469c5ab8539",
+        "genero": "Rock Progresivo"
+      },
+      {
+        "artista": "Pink Floyd",
+        "nombre": "Animals",
+        "portada": "https://i.scdn.co/image/ab67616d0000b273810168d54f85d48f07389237",
+        "genero": "Rock Progresivo"
+      },
+      {
+        "artista": "A Tribe Called Quest",
+        "nombre": "The Low End Theory",
+        "portada": "https://upload.wikimedia.org/wikipedia/en/4/42/ATribeCalledQuestTheLowEndtheory.jpg",
+        "genero": "Rap"
+      },
+      {
+        "artista": "Wu-Tang Clan",
+        "nombre": "Wu-Tang Forever",
+        "portada": "https://i.scdn.co/image/ab67616d0000b27377e8e20e0ac6182f94654a23",
+        "genero": "Rap"
       },
 
 
