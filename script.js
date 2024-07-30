@@ -786,10 +786,10 @@ var albumes = [
         "genero": "Rap"
       },
       {
-        "artista": "",
-        "nombre": "",
-        "portada": "",
-        "genero": ""
+        "artista": "Steve Lacy",
+        "nombre": "Gemini Rights",
+        "portada": "https://i.scdn.co/image/ab67616d0000b27368968350c2550e36d96344ee",
+        "genero": "Pop"
       },
 
       {
