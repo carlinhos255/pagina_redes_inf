@@ -821,6 +821,54 @@ var albumes = [
         "portada": "https://i.scdn.co/image/ab67616d0000b27377e8e20e0ac6182f94654a23",
         "genero": "Rap"
       },
+      {
+        "artista": "Digable Planets",
+        "nombre": "Blowout Comb",
+        "portada": "https://i.scdn.co/image/ab67616d0000b2732853bfc72a2ce5ddc6ed2f0d",
+        "genero": "Jazz/Rap"
+      },
+      {
+        "artista": "The Pharcyde",
+        "nombre": " Bizarre Ride II the Pharcyde",
+        "portada": "https://i.scdn.co/image/ab67616d0000b2739ec4abd35652fafe34ee7dfb",
+        "genero": "Jazz/Rap"
+      },
+      {
+        "artista": "Madlib ",
+        "nombre": "The Unseen",
+        "portada": "https://i.scdn.co/image/ab67616d0000b273018e03421de1b6a1d41501c9",
+        "genero": "Jazz/Rap"
+      },
+      {
+        "artista": "Madlib ",
+        "nombre": "Shades of Blue",
+        "portada": "https://i.scdn.co/image/ab67616d0000b2735b5fd439a9153812a169877e",
+        "genero": "Jazz/Rap"
+      },
+      {
+        "artista": "Mac Miller",
+        "nombre": "Faces",
+        "portada": "https://i.scdn.co/image/ab67616d0000b273e4251cf5331ad74eaaeca36e",
+        "genero": "Jazz/Rap"
+      },
+      {
+        "artista": "A Tribe Called Quest",
+        "nombre": "Midnight Marauders",
+        "portada": "https://i.scdn.co/image/ab67616d0000b273f306af1dae08f81f9d6f1f9f",
+        "genero": "Jazz/Rap"
+      },
+      {
+        "artista": "madlib ",
+        "nombre": "Bandana",
+        "portada": "https://i.scdn.co/image/ab67616d0000b2733bf3b1061f9f703b0f6bf532",
+        "genero": "Rap"
+      },
+      {
+        "artista": "Lootpack",
+        "nombre": "Soundpieces: Da Antidote",
+        "portada": "https://i.scdn.co/image/ab67616d0000b273cac8b2a021e6ab091cdff2bc",
+        "genero": "Rap"
+      },
 
 
       
