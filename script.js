@@ -875,6 +875,12 @@ var albumes = [
         "portada": "https://i.scdn.co/image/ab67616d0000b273a29bd588f4caf84bd4cd6f8b",
         "genero": "Rap"
       },
+      {
+        "artista": "Westside Gunn",
+        "nombre": "Peace Fly God",
+        "portada": "https://i.scdn.co/image/ab67616d0000b2739ea4de34431e0888683307ca",
+        "genero": "Rap"
+      },
 
 
       
