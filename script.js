@@ -869,6 +869,12 @@ var albumes = [
         "portada": "https://i.scdn.co/image/ab67616d0000b273cac8b2a021e6ab091cdff2bc",
         "genero": "Rap"
       },
+      {
+        "artista": "Westside Gunn",
+        "nombre": "Pray For Paris",
+        "portada": "https://i.scdn.co/image/ab67616d0000b273a29bd588f4caf84bd4cd6f8b",
+        "genero": "Rap"
+      },
 
 
       
