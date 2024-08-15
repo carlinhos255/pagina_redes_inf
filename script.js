@@ -398,7 +398,7 @@ var albumes = [
       {
         "artista": "Milo J",
         "nombre": "166",
-        "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9gvIWoj_PAov7G0J3IH2le6NjBx-PHDMJOQ&s",
+        "portada": "https://i.scdn.co/image/ab67616d0000b273849b53ac432d482b9312f1cc",
         "genero": "Argentina"
       },
       {
@@ -881,7 +881,42 @@ var albumes = [
         "portada": "https://i.scdn.co/image/ab67616d0000b2739ea4de34431e0888683307ca",
         "genero": "Rap"
       },
-
+      {
+        "artista": "Don Omar",
+        "nombre": "The Last Don",
+        "portada": "https://i.scdn.co/image/ab67616d0000b273b4070df60fced11f282548d0",
+        "genero": "Reguetón"
+      },
+      {
+        "artista": "Maluma",
+        "nombre": "Dirty Boy Pretty Boy",
+        "portada": "https://i.scdn.co/image/ab67616d0000b2733c3acd23605ccd1a9fd038bd",
+        "genero": "Reguetón"
+      },
+      {
+        "artista": "Calle 13",
+        "nombre": "Calle 13",
+        "portada": "https://i.scdn.co/image/ab67616d00001e02bf3d37f1fd6a7e2cb5fd1487",
+        "genero": "Reguetón"
+      },
+      {
+        "artista": "Bad Bunny",
+        "nombre": "YHLQMDLG",
+        "portada": "https://i.scdn.co/image/ab67616d0000b273548f7ec52da7313de0c5e4a0",
+        "genero": "Reguetón"
+      },
+      {
+        "artista": "Tainy ",
+        "nombre": "Data",
+        "portada": "https://i.scdn.co/image/ab67616d0000b273f885fb64a381318a1c9c14e4",
+        "genero": "Reguetón"
+      },
+      {
+        "artista": "Drake",
+        "nombre": "Take Care",
+        "portada": "https://i.scdn.co/image/ab67616d0000b273ac0c2daf1867b0d86cca74be",
+        "genero": "Hip Hop"
+      },
 
       
 ];
